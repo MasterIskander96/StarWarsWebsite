@@ -75,7 +75,7 @@ StarWarsWebsite/
 
 👨‍💻 Author
 
-Created by Iskander Abdullayev.
+Author:Iskander Abdullayev
 
 📄 License
 
