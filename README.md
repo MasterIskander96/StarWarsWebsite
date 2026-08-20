@@ -10,17 +10,16 @@ The website runs in the console and provides users with different functions, inc
 
 🎮 Features
 
-🌌 Star Wars-themed console interface
-🌐 Official Star Wars Website
-📝 Registration
-🔐 Login
-❓ Star Wars Quiz
-🎯 Guess the Character
-📖 About the Website
-💬 Feedback
-⚙️ Settings
-🔄 Interactive menu
-🎲 Randomized features
+➡️🌌 Star Wars-themed console interface
+➡️🌐 Official Star Wars Website
+➡️📝 Registration
+➡️🔐 Login
+➡️❓ Star Wars Quiz
+➡️📖 About the Website
+➡️💬 Feedback
+➡️⚙️ Settings
+➡️🔄 Interactive menu
+➡️🎲 Randomized features
 
 🕹️ How to Use
 
