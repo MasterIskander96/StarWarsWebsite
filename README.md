@@ -1,7 +1,7 @@
 Languages / Idiomas / 语言 / Dillər / Языки:
 - 🇬🇧 "English" 
 - 🇪🇸 "Español" 
-- 🇨🇳 "中文" 
+- 🇨🇳 "中国人" 
 - 🇦🇿 "Azərbaycan dili" 
 - 🇷🇺 "Русский" 
 
@@ -23,10 +23,10 @@ The website provides different functions for Star Wars fans, including quizzes, 
 StarWarsWebsite is available in:
 
 - 🇬🇧 English — Original Version
-- 🇪🇸 Español
-- 🇨🇳 中文
-- 🇦🇿 Azərbaycan dili
-- 🇷🇺 Русский
+- 🇪🇸 Spanish
+- 🇨🇳 Chinese
+- 🇦🇿 Azerbaijani
+- 🇷🇺 Russian
 
 🎮 Features
 
@@ -96,11 +96,11 @@ El sitio incluye cuestionarios, registro, inicio de sesión, comentarios, config
 
 StarWarsWebsite está disponible en:
 
--🇬🇧 English — Versión original
--🇪🇸 Español
--🇨🇳 中文
--🇦🇿 Azərbaycan dili
--🇷🇺 Русский
+- 🇬🇧 Inglesa — Versión original
+- 🇪🇸 Español
+- 🇨🇳 Chino
+- 🇦🇿 Azerbaiyano
+- 🇷🇺 Ruso
 
 🎮 Funciones
 
@@ -138,11 +138,11 @@ StarWarsWebsite 是我的 Python 编程项目之一，灵感来自 Star Wars 宇
 
 StarWarsWebsite 支持：
 
-- 🇬🇧 English — 原始版本
-- 🇪🇸 Español
+- 🇬🇧 英语 — 原始版本
+- 🇪🇸 西班牙语
 - 🇨🇳 中文
-- 🇦🇿 Azərbaycan dili
-- 🇷🇺 Русский
+- 🇦🇿 阿塞拜疆语
+- 🇷🇺 俄语
 
 🎮 功能
 
@@ -179,11 +179,11 @@ Saytda viktorina, qeydiyyat, giriş, rəy, parametrlər və rəsmi Star Wars say
 
 StarWarsWebsite aşağıdakı dillərdə mövcuddur:
 
-- 🇬🇧 English — Orijinal versiya
-- 🇪🇸 Español
-- 🇨🇳 中文
+- 🇬🇧 İngilis dili — Orijinal versiya
+- 🇪🇸 İspan dili
+- 🇨🇳 Çin dili
 - 🇦🇿 Azərbaycan dili
-- 🇷🇺 Русский
+- 🇷🇺 Rus dili
 
 👨‍💻 Müəllif
 
@@ -207,10 +207,10 @@ StarWarsWebsite — один из моих проектов по програм�
 
 StarWarsWebsite доступен на:
 
-- 🇬🇧 English — Оригинальная версия
-- 🇪🇸 Español
-- 🇨🇳 中文
-- 🇦🇿 Azərbaycan dili
+- 🇬🇧 Английский — Оригинальная версия
+- 🇪🇸 Испанский
+- 🇨🇳 Китайский
+- 🇦🇿 Азербайджанский
 - 🇷🇺 Русский
 
 🎮 Функции
