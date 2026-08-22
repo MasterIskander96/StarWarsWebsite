@@ -22,16 +22,16 @@ The original version of StarWarsWebsite is in English.
 
 🎮 Features
 
-🌐 Opens the Official Star Wars Website
-📝 User Registration
-🔐 User Login
-❓ Star Wars Quiz
-📖 About Website Section
-💬 Feedback System
-⚙️ Settings Menu
-🎲 Random Features
-🔄 Interactive Console Navigation
-🌌 Star Wars-Themed Experience
+*🌐 Opens the Official Star Wars Website
+*📝 User Registration
+*🔐 User Login
+*❓ Star Wars Quiz
+*📖 About Website Section
+*💬 Feedback System
+*⚙️ Settings Menu
+*🎲 Random Features
+*🔄 Interactive Console Navigation
+*🌌 Star Wars-Themed Experience
 
 🕹️ How to Use
 
