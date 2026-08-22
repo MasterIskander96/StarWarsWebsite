@@ -22,24 +22,24 @@ The website provides different functions for Star Wars fans, including quizzes, 
 
 StarWarsWebsite is available in:
 
-🇬🇧 English — Original Version
-🇪🇸 Español
-🇨🇳 中文
-🇦🇿 Azərbaycan dili
-🇷🇺 Русский
+- 🇬🇧 English — Original Version
+- 🇪🇸 Español
+- 🇨🇳 中文
+- 🇦🇿 Azərbaycan dili
+- 🇷🇺 Русский
 
 🎮 Features
 
-🌐 Opens the Official Star Wars Website
-📝 User Registration
-🔐 User Login
-❓ Star Wars Quiz
-📖 About Website Section
-💬 Feedback System
-⚙️ Settings Menu
-🎲 Random Features
-🔄 Interactive Console Navigation
-🌌 Star Wars-Themed Experience
+- 🌐 Opens the Official StarWarsWebsite
+- 📝 User Registration
+- 🔐 User Login
+- ❓ Star Wars Quiz
+- 📖 About Website Section
+- 💬 Feedback System
+- ⚙️ Settings Menu
+- 🎲 Random Features
+- 🔄 Interactive Console Navigation
+- 🌌 Star Wars-Themed Experience
 
 🕹️ How to Use
 
@@ -96,24 +96,25 @@ El sitio incluye cuestionarios, registro, inicio de sesión, comentarios, config
 
 StarWarsWebsite está disponible en:
 
-🇬🇧 English — Versión original
-🇪🇸 Español
-🇨🇳 中文
-🇦🇿 Azərbaycan dili
-🇷🇺 Русский
+-🇬🇧 English — Versión original
+-🇪🇸 Español
+-🇨🇳 中文
+-🇦🇿 Azərbaycan dili
+-🇷🇺 Русский
 
 🎮 Funciones
 
-🌐 Abre el sitio web oficial de Star Wars
-📝 Registro de usuarios
-🔐 Inicio de sesión
-❓ Cuestionario de Star Wars
-📖 Sección sobre el sitio web
-💬 Sistema de comentarios
-⚙️ Menú de configuración
-🎲 Funciones aleatorias
-🔄 Navegación interactiva por consola
-🌌 Experiencia temática de Star Wars
+- 🌐 Abre el sitio web oficial de
+StarWars
+- 📝 Registro de usuarios
+- 🔐 Inicio de sesión
+- ❓ Cuestionario de Star Wars
+- 📖 Sección sobre el sitio web
+- 💬 Sistema de comentarios
+- ⚙️ Menú de configuración
+- 🎲 Funciones aleatorias
+- 🔄 Navegación interactiva por consola
+- 🌌 Experiencia temática de Star Wars
 
 👨‍💻 Autor
 
@@ -137,24 +138,24 @@ StarWarsWebsite 是我的 Python 编程项目之一，灵感来自 Star Wars 宇
 
 StarWarsWebsite 支持：
 
-🇬🇧 English — 原始版本
-🇪🇸 Español
-🇨🇳 中文
-🇦🇿 Azərbaycan dili
-🇷🇺 Русский
+- 🇬🇧 English — 原始版本
+- 🇪🇸 Español
+- 🇨🇳 中文
+- 🇦🇿 Azərbaycan dili
+- 🇷🇺 Русский
 
 🎮 功能
 
-🌐 打开 Star Wars 官方网站
-📝 用户注册
-🔐 用户登录
-❓ Star Wars 问答
-📖 网站介绍
-💬 反馈系统
-⚙️ 设置菜单
-🎲 随机功能
-🔄 互动式控制台导航
-🌌 Star Wars 主题体验
+- 🌐 打开 Star Wars 官方网站
+- 📝 用户注册
+- 🔐 用户登录
+- ❓ Star Wars 问答
+- 📖 网站介绍
+- 💬 反馈系统
+- ⚙️ 设置菜单
+- 🎲 随机功能
+- 🔄 互动式控制台导航
+- 🌌 Star Wars 主题体验
 
 👨‍💻 作者
 
@@ -178,11 +179,11 @@ Saytda viktorina, qeydiyyat, giriş, rəy, parametrlər və rəsmi Star Wars say
 
 StarWarsWebsite aşağıdakı dillərdə mövcuddur:
 
-🇬🇧 English — Orijinal versiya
-🇪🇸 Español
-🇨🇳 中文
-🇦🇿 Azərbaycan dili
-🇷🇺 Русский
+- 🇬🇧 English — Orijinal versiya
+- 🇪🇸 Español
+- 🇨🇳 中文
+- 🇦🇿 Azərbaycan dili
+- 🇷🇺 Русский
 
 👨‍💻 Müəllif
 
@@ -206,20 +207,21 @@ StarWarsWebsite — один из моих проектов по програм�
 
 StarWarsWebsite доступен на:
 
-🇬🇧 English — Оригинальная версия
-🇪🇸 Español
-🇨🇳 中文
-🇦🇿 Azərbaycan dili
-🇷🇺 Русский
+- 🇬🇧 English — Оригинальная версия
+- 🇪🇸 Español
+- 🇨🇳 中文
+- 🇦🇿 Azərbaycan dili
+- 🇷🇺 Русский
 
 🎮 Функции
 
-🌐 Открытие официального сайта Star Wars
-📝 Регистрация пользователя
-🔐 Вход в аккаунт
-❓ Викторина Star Wars
-📖 Раздел «О сайте»
-💬 Система отзывов
+- 🌐 Открытие официального сайта Star
+Wars
+- 📝 Регистрация пользователя
+- 🔐 Вход в аккаунт
+- ❓ Викторина Star Wars
+- 📖 Раздел «О сайте»
+- 💬 Система отзывов
 ⚙️ Меню настроек
 🎲 Случайные функции
 🔄 Интерактивная навигация в консоли
