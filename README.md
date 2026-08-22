@@ -2,7 +2,7 @@ Languages / Idiomas / 语言 / Dillər / Языки:
 🇬🇧 "English" 
 🇪🇸 "Español" 
 🇨🇳 "中文" 
-🇦🇿 "Azərbaycan dili" (#-azərbaycan-dili)
+🇦🇿 "Azərbaycan dili" 
 🇷🇺 "Русский" 
 
 
