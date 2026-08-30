@@ -172,6 +172,7 @@ while True:
             print("The website was created by Iskander Abdullaev")
         elif clar == "<":
             print("Link:")
+            print("https://github.com/MasterIskander96/StarWarsWebsite")
             print("The website was created by Iskander Abdullaev")
         else:
             print("Unknown smiley face")
