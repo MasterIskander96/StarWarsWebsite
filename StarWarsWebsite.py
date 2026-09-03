@@ -29,6 +29,16 @@ while True:
         input("Name:")
         print("Your code:Starwars9791n")
         time.sleep(1)
+        print("Profile")
+        print("------------")
+        print("|          |")
+        print("|          |")
+        print("|          |")
+        print("|          |")
+        print("------------")
+        print(f"{name}")
+        print("Job title:Visitor")
+        time.sleep(2)
     elif choice == "Q":
         score = 0
         answer1 = input("1.In which Star Wars episode did Boba Fett first appear?(A-4,B-5,C-2,D-8)")
