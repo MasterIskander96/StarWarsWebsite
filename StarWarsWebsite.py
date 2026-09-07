@@ -170,7 +170,6 @@ while True:
         elif clar == "Dislike":
             print("We will try to do better.")
             print("The website was created by Iskander Abdullaev")
-        
         else:
             print("Unknown smiley face")
 
