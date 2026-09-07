@@ -163,16 +163,14 @@ while True:
 
     elif choice == "E":
 
-        clar = input("👍 - like,👎 -  Dislike,<")
+        clar = input("👍 - like,👎 -  Dislike")
         if clar == "Like":
             print("Thanks for the like")
             print("The website was created by Iskander Abdullaev.")
         elif clar == "Dislike":
             print("We will try to do better.")
             print("The website was created by Iskander Abdullaev")
-        elif clar == "<":
-            print("Link:")
-            print("The website was created by Iskander Abdullaev")
+        
         else:
             print("Unknown smiley face")
 
