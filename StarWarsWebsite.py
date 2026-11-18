@@ -77,7 +77,7 @@ while True:
         else:
             print("Wrong!Correct answer:D")
         answer8 = input(
-            "8.What was the designation of the clone trooper who became known as Commander Cody?(A-CT-7567,B-CC-1119,CCC-2224-,D-CT-1409)")
+            "8.What was the designation of the clone trooper who became known as Commander Cody?(A-CT-7567,B-CC-1119,C-CC-2224-,D-CT-1409)")
         if answer8 == "С":
             print("Right!")
             score += 1
